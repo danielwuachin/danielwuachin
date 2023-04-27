@@ -1,16 +1,28 @@
-### Hi there 👋
+<!-- Introduction -->
+## Hi there, I'm Jose Rodriguez 👋
+I'm a full-stack developer with experience in JavaScript, TypeScript, Python, MySQL, PostgreSQL, and MongoDB. I specialize in using Angular, Next, and React for frontend development, and Node, Express, and Django for backend development. I'm also proficient in using Git, Docker, and WordPress.
 
-<!--
-**danielwuachin/danielwuachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Skills -->
+### 🚀 Skills
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Frameworks/Libraries:**
+  - Frontend: Angular, Next, React, Bootstrap, Sass
+  - Backend: Node, Express, Django
+- **Tools:** Git, Docker, WordPress, Figma
 
-Here are some ideas to get you started:
+<!-- Projects
+### 🔭 Projects
+- [My Portfolio Website](https://www.yayra.dev/) - A website showcasing my skills and projects.
+- [Task Tracker App](https://github.com/Yayra/task-tracker) - A full-stack task tracking app built with Next.js, MongoDB, and Tailwind CSS.
+- [Weather App](https://github.com/Yayra/weather-app) - A weather app that provides current and forecasted weather data using the OpenWeatherMap API and built with React and Tailwind CSS.
+ -->
+<!-- Contact -->
+### 📫 Contact Me
+- LinkedIn: [Jose Rodriguez](https://www.linkedin.com/in/jose-daniel-rodriguez-gonzalez/)
+- Email: [danielwuachin@gmail.com](mailto:danielwuachin@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Yayra.visitor-badge" alt="Visitors Counter" />
+</p>
