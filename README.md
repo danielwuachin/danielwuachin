@@ -1,6 +1,6 @@
 <!-- Introduction -->
 ## Hi there, I'm Jose Rodriguez 👋
-I'm a full-stack developer with experience in JavaScript, TypeScript, Python, MySQL, PostgreSQL, and MongoDB. I specialize in using Angular, Next, and React for frontend development, and Node, Express, and Django for backend development. I'm also proficient in using Git, Docker, and WordPress.
+I'm a full-stack developer with experience in JavaScript, TypeScript, Python, SQL, and MongoDB. I specialize in using Angular, Next, and React for frontend development, and Node, Express, and Django for backend development. I'm also proficient in using Git, Docker, and WordPress.
 
 <!-- Skills -->
 ### 🚀 Skills
@@ -19,10 +19,13 @@ I'm a full-stack developer with experience in JavaScript, TypeScript, Python, My
  -->
 <!-- Contact -->
 ### 📫 Contact Me
-- LinkedIn: [Jose Rodriguez](https://www.linkedin.com/in/jose-daniel-rodriguez-gonzalez/)
-- Email: [danielwuachin@gmail.com](mailto:danielwuachin@gmail.com)
+- <img src="[https://visitor-badge.glitch.me/badge?page_id=Yayra.visitor-badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />: [Jose Rodriguez](https://www.linkedin.com/in/jose-daniel-rodriguez-gonzalez/)
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />: [danielwuachin@gmail.com](mailto:danielwuachin@gmail.com)
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Yayra.visitor-badge" alt="Visitors Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username={danielwuachin}&theme=blue-green" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={danielwuachin}&theme=blue-green" alt="Languages" />
 </p>
