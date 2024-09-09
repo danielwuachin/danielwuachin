@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an ecommerce website 💻<br>👯 I’m looking to collaborate on new teams in a wide range of industries<br>🌱 I’m currently learning about Cloud and AI services<br>💬 You can ask me  for help if you need it! <br>⚡ Fun fact: love to work remotly and play videogames, but every weekend I do hiking and camping 🗻
+🔭 I’m currently working on an ecommerce web app (Frontend and backend) 💻<br>👯 I’m looking to collaborate on new teams in a wide range of industries<br>🌱 I’m currently learning about Cloud and AI services<br>💬 You can ask me  for help if you need it! <br>⚡ Fun fact: love to work remotly and play videogames, but every weekend I do hiking and camping 🗻
 
 
 ## 🌐 Socials:
